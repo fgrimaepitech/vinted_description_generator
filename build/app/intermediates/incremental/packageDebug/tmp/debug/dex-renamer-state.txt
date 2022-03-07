@@ -1,0 +1,4 @@
+#Sun Mar 06 15:26:35 CET 2022
+base.0=C\:\\Users\\flori\\OneDrive\\Bureau\\Flutter\\vinted_description_generator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
