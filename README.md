@@ -1,6 +1,6 @@
 # vinted_description_generator
 
-A new Flutter project.
+A genrerator to generate your Vinted Desription for your sellings.
 
 ## Getting Started
 
